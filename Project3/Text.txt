@@ -1,0 +1,10 @@
+while 	sort()	arr[i][j]
+q	arr[i][j]
+for	a[i][j + 1];
+a[d][d]	main()
+scanf(i)		return  for
+int{ i }
+[N]	do
+if	printf{ *g* }
+[f][i][j]
+else  (a)
